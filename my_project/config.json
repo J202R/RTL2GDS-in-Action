@@ -43,7 +43,7 @@
       "KLayout.DRC"
     ]
     },
-    "DESIGN_NAME": "my_project",
+    "DESIGN_NAME": "AES",
     "VERILOG_FILES": "dir::verilog/*.v",
     "CLOCK_PORT": "my_clk",
     "CLOCK_PERIOD": 10,
