@@ -39,7 +39,7 @@ jobs:
     - name: Install Python dependencies
       run: |
         python3 -m pip install --upgrade pip
-        python3 -m pip install gdstk
+        python3 -m pip install gdstk cairosvg
 
     # Step 5: Organize GDS files into a directory
     - name: Copy GDS files
